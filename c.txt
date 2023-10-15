@@ -1,2 +1,3 @@
 text c
 Update common file on feature-a branch
+Update common file on feature-b branch
